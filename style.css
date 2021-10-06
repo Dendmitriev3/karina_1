@@ -1,0 +1,247 @@
+* {
+    margin: 0 auto;
+}
+body {
+    background: #E5E5E5;
+}
+.glavn {
+    display: flex;
+}
+.box_wraper{
+    width: 1200px;
+    height: 1319px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.box_1 {
+    position: absolute;
+    width: 370px;
+    height: 1250px;
+    left: 40px;
+    top: 40px;
+    background-color: #1E2939;
+
+}
+.box_1 img {
+    position: absolute;
+    width: 370px;
+    top: 40px;
+}
+.box_v1{
+    position: absolute;
+    color: white;
+    width: 250px;
+    height: 83px;
+    left: 80px;
+    top: 485px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.name_text {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+
+.projects{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 8px;
+}
+li{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+a{
+    color: #595959;
+    text-decoration: none;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    color: #595959;
+}
+.job {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+.box_v1 h3 {
+    margin-top: 10px;
+}
+.work {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 12px;
+}
+.frilance {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 11px;
+}
+h5 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 8px;
+    margin-top: 11px;
+}
+.simvol {
+    color: black;
+}
+.box_v2 {
+    position: absolute;
+    color: white;
+    width: 121px;
+    height: 203px;
+    left: 80px;
+    top: 615px;
+}
+.box_v3 {
+    position: absolute;
+    color: white;
+    width: 113px;
+    height: 131px;
+    left: 80px;
+    top: 862px;
+}
+.box_content1 {
+    position: absolute;
+    width: 400px;
+    height: 230px;
+    left: 504px;
+    top: 131px;
+}
+.box_content2{
+    position: absolute;
+    width: 485px;
+    height: 107px;
+    left: 498px;
+    top: 412px;
+}
+.box_content3{
+    position: absolute;
+    width: 525px;
+    height: 213px;
+    left: 498px;
+    top: 560px;
+}
+.box_content4 {
+    position: absolute;
+    width: 525px;
+    height: 150px;
+    left: 498px;
+    top: 825px;
+}
+.box_content5 {
+    position: absolute;
+    width: 525px;
+    height: 126px;
+    left: 498px;
+    top: 985px;
+}
+.box_content6{
+    position: absolute;
+    width: 327px;
+    height: 114px;
+    left: 498px;
+    top: 1130px;
+
+}
+span{
+    color: red;
+}
+.university{
+    color: red;
+    margin-top: 12px;
+    margin-bottom: 11px;
+}
+.manag {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+
+}
+.lang {
+    color: rgb(0, 0, 0);
+}
+.box_content1 h1{
+    margin-top: 20px;
+}
+.box_content1 p{
+    margin-top: 20px;
+}
+.contacts_sidebar {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.phone {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+.box_v2 li {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.box_v3 li {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.sidebar_box_v2{
+    position: absolute;
+    right: 30px;
+}
+.sidebar_box_v3{
+    
+    position: absolute;
+    right: 25px;
+}
